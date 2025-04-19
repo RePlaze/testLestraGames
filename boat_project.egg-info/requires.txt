@@ -1,0 +1,3 @@
+pytest
+structlog
+prometheus-client
